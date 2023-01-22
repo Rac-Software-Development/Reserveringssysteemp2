@@ -20,7 +20,7 @@ $ flask run
 
 How to start the application:
 
-$ cd reserveringssysteem
+$ cd Reserveringssysteemp2
 $ python3 -m venv env
 $ source env/bin/activate
 $ pip install flask
